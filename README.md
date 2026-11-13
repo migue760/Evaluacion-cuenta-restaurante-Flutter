@@ -25,16 +25,3 @@ lib/
 └── pantallas/
     └── pantalla_cuenta.dart
 ```
-
-## Cómo ejecutar
-
-1. Crear un proyecto Flutter: `flutter create divisor_cuenta`.
-2. Copiar la carpeta `lib` de este proyecto sobre la carpeta `lib` creada.
-3. Desde la carpeta del proyecto ejecutar:
-
-```bash
-flutter pub get
-flutter run
-```
-
-No se requieren dependencias externas.
